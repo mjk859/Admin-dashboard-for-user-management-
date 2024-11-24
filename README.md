@@ -8,9 +8,9 @@ The Role-Based Access Control (RBAC) System is a web application designed to man
 
 1. **Clone the Repository**
 
-   `git clone https://github.com/your-username/Admin-dashboard-for-user-management.git`
+   `git clone https://github.com/your-username/rbac-system.git`
    
-   `cd Admin-dashboard-for-user-management`
+   `cd rbac-system`
 2. **Install Dependencies**
    
    Ensure you have Node.js and npm installed.
