@@ -57,20 +57,20 @@ Core Features
 ## Screenshots
 1. Dashboard
    
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+   ![dashboard!](/assets/images/Dashboard.png "dashboard")
 
 3. User Management
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+   ![user management page!](/assets/images/User-management.png "user management")
 
 4. Role Management
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+   ![role management!](/assets/images/Role-management.png "role management")
 
 5. Add User
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+   ![add user!](/assets/images/Add-user.png "add user")
 
 6. Sorting and Filtering Options
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+   ![sorting and filtering!](/assets/images/Sorting-and-filtering.png "San Juan Mountains")
